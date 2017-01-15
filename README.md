@@ -1,4 +1,4 @@
-# Opportunities-for-teacher
+# Teacher-Opportunities
 
 | Opportunity  | Subject |  Grades | Time | Location |App Deadline  | Cost | Notes |
 | ------------ | ------- | ------- | ---- | -------- | ------------ | ---- | ----- |
